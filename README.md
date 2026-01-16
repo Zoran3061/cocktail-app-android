@@ -29,6 +29,18 @@ An Android mobile application built with **Kotlin** that allows users to browse 
 
 ## Screenshots
 
+**Add new cocktail**
+<img width="363" height="805" alt="image" src="https://github.com/user-attachments/assets/be1ca176-08b9-4071-a284-a3c82f8e8251" />
+
+**Cocktail search**
+<img width="361" height="805" alt="image" src="https://github.com/user-attachments/assets/e965b4d5-3a56-4fb5-9984-f9340b2bc5d3" />
+
+**Favorite cocktails**
+<img width="360" height="805" alt="image" src="https://github.com/user-attachments/assets/3bf39226-c463-43d8-8f7b-cb9f927df176" />
+
+**Cocktail history**
+<img width="361" height="805" alt="image" src="https://github.com/user-attachments/assets/bb04d989-cb03-4b3e-809f-224546e8afc4" />
+
 ## Notes
 
 This project is part of my personal portfolio and demonstrates Android application development using Kotlin and Gradle.
